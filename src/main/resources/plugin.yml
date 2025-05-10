@@ -1,0 +1,4 @@
+name: NoCapBack
+version: '1.0'
+main: me.noCapBack.NoCapBack
+api-version: '1.21'
